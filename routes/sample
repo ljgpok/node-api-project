@@ -1,0 +1,11 @@
+router.post('/login')
+router.get('/logout')
+
+router.post('/store-event')
+router.get('/store-events')
+router.get('/getBLEid')
+
+
+
+Admin Route
+router.post('/sensor-registration')

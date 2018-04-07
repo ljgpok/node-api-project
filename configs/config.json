@@ -1,0 +1,4 @@
+{
+    "mongo_path": "mongodb://localhost:27017/sensorApp",
+    "jwt_secret": "sadkhq9865432n5238sd7pv4325ph89"
+}
